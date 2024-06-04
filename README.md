@@ -1,0 +1,1 @@
+bot génial, tout simplement parfait.

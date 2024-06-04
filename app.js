@@ -36,6 +36,7 @@ const responseConfig = [
     { triggers: ['bon'], responses: ['soir'] },
     { triggers: ['tard'], responses: ['tiflette'] },
     { triggers: ['go'], responses: ['lem'] },
+    { triggers: ['mais'], responses: ['on'] },
 ];
 
 function normalizeContent(content) {
